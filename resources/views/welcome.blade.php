@@ -25,7 +25,7 @@
 <html>
 <head>
 
-  <title>Berger Hut</title>
+  <title>Luz Special Pilinut Candy</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
 
 
@@ -36,8 +36,8 @@
 <section class="about dark-theme">
   <div class="about-content">
     <h2>About Special Pilinut</h2>
-    <p>Experience the finest gourmet burgers in a cozy and rustic atmosphere. At Berger Hut, we are dedicated to delivering exceptional flavors that will tantalize your taste buds.</p>
-    <p>Our chefs meticulously craft each burger using locally sourced ingredients and unique flavor combinations. From juicy beef patties to mouthwatering vegetarian options, there's something for everyone.</p>
+    <p>Experience the finest and delicious home made pilinut candy here in Municipal of Virac.</p>
+    <p>Our home made product that you will satisfied to taste.</p>
     <a href="#menu" class="btn">Explore Our Product</a>
   </div>
   <div class="about-image">
@@ -50,19 +50,19 @@
   <h2>Our Product</h2>
   <div class="menu-items">
     <div class="menu-item">
-      <img src="burger1.jpg" alt="Burger 1">
-      <h3>Classic Cheeseburger</h3>
-      <p>A juicy beef patty topped with melted cheese, fresh lettuce, tomato, and our special sauce. Served with a side of crispy fries.</p>
+      <img src="Repack.jp" alt="Repack 1">
+      <h3>Repack Pilinut</h3>
+      <p>A separated pack of pilinut with 4pcs of each.</p>
     </div>
     <div class="menu-item">
-      <img src="burger2.jpg" alt="Burger 2">
-      <h3>Veggie Delight</h3>
-      <p>A delicious veggie patty made from a blend of fresh vegetables and spices. Topped with avocado, sprouts, and tangy mayo. Served with a side of sweet potato fries.</p>
+      <img src="Repack.jpg" alt="Pouch 2">
+      <h3>Pouch Pilinut</h3>
+      <p>A sealed pouch that easily to open and can close if you're not done to eat.</p>
     </div>
     <div class="menu-item">
-      <img src="burger3.jpg" alt="Burger 3">
-      <h3>Spicy BBQ Burger</h3>
-      <p>A fiery burger packed with flavor! Grilled chicken breast smothered in spicy BBQ sauce, topped with jalapenos, crispy onion rings, and chipotle mayo. Served with a side of coleslaw.</p>
+      <img src="burger3.jpg" alt="Jar 3">
+      <h3>Jar Pilinut</h3>
+      <p>A jar pilinut that can full 3 to 2 person tummy.</p>
     </div>
   </div>
 </section>
@@ -87,31 +87,16 @@
   <h2>What Our Customers Say</h2>
   <div class="testimonial">
     <img src="customer1.jpg" alt="Customer 1">
-    <p>"The burgers at Berger Hut are simply amazing! The flavors are rich, and the ingredients are always fresh. It's my go-to place whenever I'm craving a delicious meal."</p>
-    <h4>John Doe</h4>
+    <p>"I must say that this product exceeded my expectations! The flavors complement each other well, and there's something for everyone specially when you're a fan of sweet. You will defitely like it!."</p>
+    <h4>Josh</h4>
   </div>
   <div class="testimonial">
     <img src="customer2.jpg" alt="Customer 2">
-    <p>"Berger Hut never disappoints! The quality of their burgers and the friendly service make it a top-notch dining experience. I highly recommend it to all burger lovers!"</p>
-    <h4>Jane Smith</h4>
+    <p>"I'm super satisfied with this product! The variety of flavors is fantastic, and each one is delicious  in its own way. I highly recommend this to try them all!"</p>
+    <h4>Sheila</h4>
   </div>
 </section>
 
-
-<section class="gallery">
-  <h2>Gallery</h2>
-  <div class="image-grid">
-    <div class="image-item">
-      <img src="gallery1.jpg" alt="Image 1">
-    </div>
-    <div class="image-item">
-      <img src="gallery2.jpg" alt="Image 2">
-    </div>
-    <div class="image-item">
-      <img src="gallery3.jpg" alt="Image 3">
-    </div>
-    <div class="image-item">
-      <img src="gallery4.jpg" alt="Image 4">
     </div>
   </div>
 </section>
@@ -122,15 +107,15 @@
     <div class="contact-info">
       <div class="info-item">
         <i class="fas fa-map-marker-alt"></i>
-        <p>123 Main Street, City, Country</p>
+        <p>Calatagan Proper, Virac, Catanduanes</p>
       </div>
       <div class="info-item">
         <i class="fas fa-phone-alt"></i>
-        <p>+1 234 567 890</p>
+        <p>09384508080</p>
       </div>
       <div class="info-item">
         <i class="fas fa-envelope"></i>
-        <p>info@bergerhut.com</p>
+        <p>Special Pilinut@gmail.com</p>
       </div>
     </div>
     <form class="contact-form">
@@ -150,22 +135,14 @@
     <div class="footer-logo">
       <img src="iconlogo.png" alt="1.jpg">
     </div>
-    <nav class="footer-links">
-      <a href="#">Home</a>
-      <a href="#">About</a>
-      <a href="#">Menu</a>
-      <a href="#">Reservations</a>
-      <a href="#">Testimonials</a>
-      <a href="#">Gallery</a>
-      <a href="#">Contact</a>
-    </nav>
+   
     <div class="footer-social">
       <a href="#"><i class="fab fa-facebook"></i></a>
       <a href="#"><i class="fab fa-twitter"></i></a>
       <a href="#"><i class="fab fa-instagram"></i></a>
     </div>
   </div>
-  <p class="footer-text">&copy; 2023 Berger Hut. All rights reserved.</p>
+  <p class="footer-text">&copy;All right reserved.</p>
 </footer>
 
 

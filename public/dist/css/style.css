@@ -6,7 +6,7 @@
 .wrapper{
 	background: url(pili.jpg) no-repeat;
 	background-size: cover;
-	height: 100vh;
+	height: 130vh;
 }
 .navbar{
 	position: fixed;
